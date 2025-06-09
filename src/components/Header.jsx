@@ -2,7 +2,6 @@ export function Header() {
   return (
     <header className="flex items-center justify-between py-4 px-4 sm:px-6 lg:px-8">
       <div className="flex items-center space-x-4">
-        {/* Animated logo */}
         <img
           className="h-10 w-10 animate-bounce"
           src="https://cdn-icons-png.flaticon.com/512/616/616408.png"
